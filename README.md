@@ -3,7 +3,9 @@
 Primeiramente para iniciar o projeto necessário realizar o clone do repositório.
 
 Após realizar o clone abra a pasta do projeto e digite o seguinte comando:
+
 `$ yarn`
+
 Para instalar todos os pacotes para rodar o projeto.
 
 Depois digitar o comando:
